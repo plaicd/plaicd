@@ -18,7 +18,7 @@
 
 <details>
 <summary>GitHub Stats</summary>
-<img src="https://github-stats-alpha.vercel.app/api?username=plaicd&cc=406085&tc=E5F0FA&ic=9EBFEB&bc=1A2B42" alt="Github Stats"/>
+<img src="https://github-stats-alpha.vercel.app/api?username=plaicd&cc=406085&tc=E5F0FA&ic=9EBFEB&bc=1A2B42&hide_rank=true" alt="Github Stats" width="400"/>
 </details>
 
 <details>
