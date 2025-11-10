@@ -1,29 +1,28 @@
-<img src="./pic.jpeg" alt="(^///^)" width="350" align="right">
+
 
 <div align="center">
+
+<img src="./banner.jpg" alt="(^///^)" width="350">
+
 <pre>
-██████╗ ██╗       █████╗ ██████╗ ██╗██████╗ 
-██╔══██╗██║     ██╔══██╗██╔════╝ ██║██╔══██╗
-██████╔╝██║     ███████║██║      ██║██║  ██║
-██╔═══╝ ██║     ██╔══██║██║      ██║██║  ██║
-██║     ███████╗██║  ██║╚██████╗ ██║██████╔╝
-╚═╝     ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝╚═════╝ 
+██╗░░██╗██╗░░░██╗███╗░░░███╗███╗░░██╗░░██╗██╗██╗░░░░░
+██║░░██║╚██╗░██╔╝████╗░████║████╗░██║░██╔╝██║██║░░░░░
+███████║░╚████╔╝░██╔████╔██║██╔██╗██║██╔╝░██║██║░░░░░
+██╔══██║░░╚██╔╝░░██║╚██╔╝██║██║╚████║███████║██║░░░░░
+██║░░██║░░░██║░░░██║░╚═╝░██║██║░╚███║╚════██║███████╗
+╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░░░░╚═╝╚═╝░░╚══╝░░░░░╚═╝╚══════╝
 </pre>
 </div>
 
 <div align="center">
 
-## **Hello!** I am Andrey Placid - Python backend developer
+## **Hello!** I am [Andrey](https://github.com/hymn4l) - Python backend developer
 
-<details>
-<summary>GitHub Stats</summary>
+<img src="https://github-stats-alpha.vercel.app/api?username=hymn4l&cc=406085&tc=E5F0FA&ic=9EBFEB&bc=1A2B42&hide_rank=true" alt="Github Stats"/>
 
-<img src="https://github-stats-alpha.vercel.app/api?username=plaicd&cc=406085&tc=E5F0FA&ic=9EBFEB&bc=1A2B42&hide_rank=true" alt="Github Stats" width="400"/>
+---
 
-</details>
-
-<details>
-<summary>Skills</summary>
+**Skills**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -39,8 +38,6 @@
 <img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ruff-000000?style=for-the-badge&logo=ruff&logoColor=white"/>
 
-</details>
-
-### (\*/ω＼\*) [Telegram](https://t.me/amvao) or [Email](mailto:amerfoe@gmail.com)
+### (\*/ω＼\*) Contact: [Telegram](https://t.me/hymn4l) or [Email](mailto:amerfoe@gmail.com)
 
 </div>
